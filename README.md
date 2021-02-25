@@ -1,2 +1,2 @@
-# mbanarez.xyz
+# banarez.xyz
 website
